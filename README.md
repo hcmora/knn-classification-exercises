@@ -1,2 +1,2 @@
 # knn-classification-exercises
-KNN Exercises using Python
+KNN Exercises using Python and R
